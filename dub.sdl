@@ -1,7 +1,0 @@
-name "dlang"
-description "server side for dlang.ru"
-authors "Dmitry Bubnenkov"
-copyright "Copyright © 2019, Dmitry Bubnenkov"
-license "proprietary"
-dependency "vibe-d" version="~>0.8.5"
-dependency "dini" version="~>2.0.0"

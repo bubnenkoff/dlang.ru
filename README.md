@@ -1,18 +1,13 @@
 ### About
-Russian community site about D Programming language.
+Russian community site about D Programming language http://dlang.ru.
 
 ### Book
 
-You are free to contribute to dlang.ru/book
+You are free to contribute to http://dlang.ru/book
 
 ### Contacts
 
 Our Telegram channel https://t.me/dlangru
-
-### Attention
-
-Site may not be open from Russia due to blocking from our goverment.
-Putin is a fascist! We do not support the military annexation of the Crimea!
 
 ### Screenshot
 ![Screenshot](screenshot.webp)
@@ -41,7 +36,7 @@ run
 
 if VPS have less than 2GB RAM you need pass the flag `--build-mode=singleFile`
 
-Do not forget to change `globalThis.base_url = "http://127.0.0.1:8081"` to current domain name.
+Do not forget to change `globalThis.base_url = "http://127.0.0.1:8080"` to current domain name.
 
 ### Running
 
